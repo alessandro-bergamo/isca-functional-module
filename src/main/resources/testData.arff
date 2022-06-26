@@ -1,0 +1,1350 @@
+@relation 'CommitMessages'
+
+@attribute Text string
+@attribute class-att {negative,positive}
+
+@data
+
+
+
+'abort first ',negative
+'abort the export ',negative
+'about delete last thing field replace with null ',negative
+'about delete last thing field replace with null ',negative
+'add actions the popup menu ',negative
+'add all panels the tabbed pane ',negative
+'add begin ',negative
+'add button panel main panel ',negative
+'add buttons button panel ',negative
+'add column name the list ',negative
+'add column neeeded ',negative
+'add combo box for command execute ',negative
+'add context menu items the object trees session node popup menu ',negative
+'add context menu items the object trees view and procedure nodes ',negative
+'add controls for file handling but only datatype can file operations ',negative
+'add default value alter table tablename alter columnname set default defaultvalue ',negative
+'add each the panels created the datatype objects for editing their own properties ',negative
+'add external processing command field and button ',negative
+'add jpanel pane ',negative
+'add listener listen for items addedremoved from list ',negative
+'add mouse listener for displaying popup menu ',negative
+'add mouse listener for popup ',negative
+'add new formatter for ',negative
+'add note user about including file name command ',negative
+'add panel containing binary data editing options needed ',negative
+'add panels for core squirrel functionality ',negative
+'add row headers help user understand what the second row ',negative
+'add some space ',negative
+'add the button group ',negative
+'add the buttons ',negative
+'add the data the existing tables ',negative
+'add the list column names will inserting into sure skip the rowid column and any auto increment columns ',negative
+'add the panel update ',negative
+'add the parameter names and types use the session you got from the opensession call here ',negative
+'adding all colums together ',negative
+'adding all colums together ',negative
+'adding labels and separators ',negative
+'adding milliseconds from the orgtime file ',negative
+'adding rows ',negative
+'adding titles ',negative
+'adds foreign key constraint the source table ',negative
+'alias schema properties ',negative
+'aliases ',negative
+'all ',negative
+'all cols are the use side delete from editwherecols ',negative
+'all except wherelike ',negative
+'all local and columns for the other tables ',negative
+'all rules passed activate the button ',negative
+'all schemas ',negative
+'all tables except the merge into table ',negative
+'all the string functions available dbms ',negative
+'allow the save and reload user options related specific columns construct unique name for the table the column can associcated with only that table some drivers not provide the catalog schema info those parts the name will end null thats since this string never viewed the user and just used distinguish this table from other tables the also include the url used connect the that the same tabledb different machines treated differently ',negative
+'allow the user enter just the hour just hour and minute and assume the unentered values are ',negative
+'allow the user set for the fetch size indicate that this should not called jdbcodbc bridge driver fails execute sql once you have set the fetch size any value ',negative
+'alter sequence sequencename restart with value ',negative
+'alter sequence sequencename startwith increment minimum maximum cache cycle ',negative
+'alter table childtablename add constraint constraintname foreign key childcolumn separator references parenttablename parentcolumn separator ',negative
+'alter table localtablename add constraint constraintname foreign key localcolumn localcolumn references referencedtablename referencedcolumn referencedcolumn match full update restrict delete action deferrable initially deferred ',negative
+'alter table oldobjectname rename newobjectname ',negative
+'alter table oldtablename rename newtablename ',negative
+'alter table tablename add constraint constraintname foreign key column list references exptablename column list delete update cascade set default set null ',negative
+'alter table tablename add constraint constraintname primary key column list ',negative
+'alter table tablename add constraint constraintname unique column column ',negative
+'alter table tablename add constraint constraintname unique column list ',negative
+'alter table tablename add constraint constraintname unique columnname separator ',negative
+'alter table tablename add constraint nullfield check field not null ',negative
+'alter table tablename alter column columnname set default alter sequence owned tablenamecolumnname ',negative
+'alter table tablename alter column columnname set nullable ',negative
+'alter table tablename drop constraint constraintname ',negative
+'alter table tablename rename column oldcolumnname newcolumnname ',negative
+'alter table test alter column nullvc varchar ',negative
+'always add spaces end for consistancy ',negative
+'always get the clob even when are not reading the contents since the clob just pointer the clob data rather than the data itself this operation should not take much time opposed getting all the data the clob ',negative
+'analyze checkbox ',negative
+'and already handled ',negative
+'and the version the calling program this optional you dont want give out this info please enter ',negative
+'append nothing standard says this equivalent action and some dbs oracle dont accept action ',negative
+'appending labels with optional components ',negative
+'are limiting all columns then need reread because not know have all the data not ',negative
+'are more columns left part page ',negative
+'are the closing event the session main window dont want send this event again therefore pass withevents false ',negative
+'arrayliststring result new arrayliststring ',negative
+'artifactxmlbean ',negative
+'assert flawed because canwrite does not work asserttruefile set readonly fcanwrite ',negative
+'assert flawed because canwrite does not work asserttruefile set readonly fcanwrite ',negative
+'assume that classes and attributes wont the same completion list classes will completed fully qualified when the user works with fully qualified class names ',negative
+'axion doesnt allow column alterations the nullable attribute fortunately doesnt require this add primary key ',negative
+'backup directories ',negative
+'bad export not proceed with command the exportdata method has already put message the user saying the export failed ',negative
+'begin code related printing ',negative
+'below equivalent the following stringvalueresult xmltypegetstringval ',negative
+'below equivalent the following xmltype xmltypecreatexmlo ',negative
+'best guess read object this probably the wrong thing here but dont know what else try ',positive
+'better safe than sorry ',negative
+'binary data viewing option which radix use this object only nonnull when the data binary data ',negative
+'bit ',negative
+'blobs are different from normal data types that what actually read from the descriptor pointing the data rather than the data itself during the initial load the table the values read from the descriptor may have been limited but the descriptor itself has been completely read therefore not need reread the datum from the database because know that have the entire descriptor the contents the blob have been limited during the initial table load that will discovered when check the cell editable and the full data will read that time using this descriptor ',negative
+'blues bold ',negative
+'bookmarks only available with the bookmarks pluginnget the plugin from wwwsquirrelsqlorg its free ',negative
+'both have actual data compare the strings note that one has read all the data and the other has read only part the data that will say that they are not equal ',negative
+'both these throw exception claiming that got clob and expected number inconsistent data types null javasqltypesclob ',negative
+'break ',negative
+'button bottom dialog jpanel btnspnl new jpanel jbutton okbtn new jbuttonok ',negative
+'cache file path message panel ',negative
+'call the datatype object for this column and have check the current value ',negative
+'call the function the app code that saves the data the persistant storage database the success failure that function indicated the absance presence result errporwarning message determines the result this call since the table supposed editable should have object set our super class ',negative
+'call the underlying model get the whole data possible ',negative
+'can done follows sqlserver insert into mytableidname select pizza union select donuts union select milk ',negative
+'can use empty clob for editing ',negative
+'cancel any current cell editing operations ',negative
+'cancel statement perhaps the driverrddbms does not support cancelling statements see logs for further details ',negative
+'cannot alter columns null attribute directly only through constraints not only that but its apparently not valid thing create primary key using column that has been made not null via check constraint therefore the only columns that qualify made pks are those that were declared not null the time table creation ',negative
+'cannot blank ',negative
+'cannot delete rows readonly table ',negative
+'cannot execute null command ',negative
+'cannot insert row into readonly table ',negative
+'cannot mock dtproperties because designed accessed statically simulate missing property ',negative
+'cannot mock urls they are final and they cannot subclassed ',negative
+'cannot pass byte array classforname ',negative
+'cannot remove all the fields from the use columns list ',negative
+'cannot think any reason for doing anything all here ',negative
+'cannot use sequence for the default value column however could always reference the ssequence trigger ',negative
+'cannot use when unsigned ',negative
+'canread only returns the file exists cannot fully tested ',negative
+'cant fit hide ',negative
+'cant work with isessionaction because result window top the session isessionaction null ',negative
+'cascade constraints checkbox ',negative
+'case already exists ',negative
+'case return ',negative
+'case the connection wont able tell its auto commit state this the best default have ',negative
+'catalog ',negative
+'catalog ',negative
+'cell importexport file not found for user first time user ran pgm ',negative
+'change body created methods use file settings file templates ',negative
+'change body overridden methods use file settings file templates ',negative
+'changes will made when squirrel restarted ',negative
+'check box for whether read contents during table load not contents when table first loaded ',negative
+'check box for whether show newlines for incell display ',negative
+'check ensure that the tokenizer received not the default one that should have been overridden ',negative
+'check for informix has very special qualified names ',negative
+'check for malformed xml text that happens contain with corresponding ',negative
+'check for max size reached only works when provides nonzero scale info ',negative
+'check for possibly bad return from child ',negative
+'check for user deletes last thing field ',negative
+'check for whitespace ',negative
+'check option not supported ',negative
+'check reference equality sure that isnt the exact same object ',negative
+'check see directory and convert tofile the name the file that directory ',negative
+'check see hit the end the file without processing the current record ',negative
+'check see new data same old data which case not update the underlying data this not optimization though does speed things need this avoid error when check for rows being changed the the new value and old value are the same when look see any rows already exist with the new value will find the existing row and claim that the update will make one row identical the changed row that there will two identical rows the which not true avoid the problem not updating the the data has not been changed this can happen user changes the cell contents then changes them back before exiting the cell ',negative
+'check sure get only one schema ',negative
+'check that did not just add char null ',negative
+'check that the text valid representation ',negative
+'check the error stream for problem this bit questionable since possible for processes output something stderr but continue processing but without this some problems are not seen bad argument type messages from the process ',positive
+'checkbox for java defaultnondefault format ',negative
+'checking make sure the correct files were are listed the array ',negative
+'checking make sure the correct files were are listed the array ',negative
+'checks the former message should highlighted history color ',negative
+'childs ',negative
+'choose source directory ',negative
+'chop off check column ',negative
+'class name for the jcc sqlexception class ',negative
+'class that displays the various formats available for dates ',negative
+'clause ',negative
+'cleanup resources used ',negative
+'clob cannot used where clause ',negative
+'close ',negative
+'close all file viewers ',negative
+'close existing session ',negative
+'code completion has been done within code completion now just replace what all candidates have common ',negative
+'coding convenience create reference the text component that typecast jtextcomponent this not essential could typecast every reference but this makes the code cleaner ',negative
+'coding convenience create reference the text component that typecast jtextcomponent this not essential could typecast every reference but this makes the code cleaner ',negative
+'coldefs columnindices computewidths datasetdefinition new ',negative
+'coldefs not same order search for matching coldef entry note linear search here will normally not too bad because most tables not have huge numbers columns ',positive
+'column ',negative
+'column list ',negative
+'column list ',negative
+'column modify ',negative
+'column not model ',negative
+'column row ',negative
+'columns ',negative
+'columns ',negative
+'columns defined return generic class avoid anything throwing exception ',negative
+'columns for the selected procedure ',negative
+'columns used where clause when editing table ',negative
+'columntab new ',negative
+'command ',negative
+'command returned nonstandard value ask user before proceeding ',negative
+'common expectations ',negative
+'common mock objects ',negative
+'completion will work better you use the syntax plugin get from squirrelsqlorg its free ',negative
+'compute available height above the cursor ',negative
+'configurations ',negative
+'contents ',negative
+'contents when table first loaded and display string ',negative
+'context instance declaration ',negative
+'controlling ',negative
+'conversion constants ',negative
+'convert all columns key not null this doesnt hurt they are already null ',negative
+'convert bytes bytes ',negative
+'convert bytes bytes ',negative
+'convert each byte and put into string buffer ',negative
+'convert each string into classname prop value and fill into the data ',negative
+'convert file text into string special case some systems tack newline the end the text read assume that last char newline that want everything else the line ',negative
+'convert file text into string special case some systems tack newline the end the text read assume that last char newline that want everything else the line ',negative
+'convert files without nativeascii output dir ',negative
+'convert layered panes coordinates ',negative
+'convert number conversion issue into issue for consistancy ',negative
+'convert signed unsigned ',negative
+'convert the char into its numeric value ',negative
+'copy the header data from the column array the header string array ',negative
+'copys the distinct values from the source column into the lookup table ',negative
+'could tell user here that export was canceled but dont think its necessary and that avoids forcing user yet another annoying mouse click ',negative
+'count ',negative
+'create add sequence sql ',negative
+'create all the gui objects now ',negative
+'create column model ',negative
+'create data structure containing contents rows deleted cannot use the getrow method because that uses myjtable whereas the indexes that have are indexes the sortabletablemodel ',negative
+'create empty set for the not use list ',negative
+'create empty set for the use list ',negative
+'create force view not exists newviewname columnname select create view viewname selectstatement with checkoptiontype checkoption ',negative
+'create index indexname indextype tblname indexcolname indexcolname colname length asc desc indextype using btree hash note indextype unused the moment because the index dialog doesnt accept this see below ',negative
+'create new bookmark manager ',negative
+'create new columns table ',negative
+'create new object hold the different value but use the same internal clob pointer the original ',negative
+'create new object hold the different value but use the same internal clob pointer the original ',negative
+'create self and ',negative
+'create sequence increment integer start with integer maxvalue integer nomaxvalue minvalue integer nominvalue cycle nocycle cache unsignedinteger nocache order noorder ',negative
+'create sequence sequencename startwith increment minimum maximum cache cycle ',negative
+'create spinner for update period ',negative
+'create the analysis dialog using the edt and wait for finish ',negative
+'create the buttons for input done and cancel ',negative
+'create the file open ',negative
+'create the hashmap names use and put editwherecols ',negative
+'create the imput stream that datatype objects dont have ',negative
+'create the jtable for input and put the top window ',negative
+'create the panel and add the gui items ',negative
+'create trigger sql for column that autoincremented ',negative
+'create unique storageoption index indexname tablename columnname separator ',negative
+'create updatecancel controls using default layout ',negative
+'create view viewname selectstatement with checkoptiontype checkoption ',negative
+'create view viewname selectstatement withcheckoption ',negative
+'creates the lookup table with its columns depenting the mode ',negative
+'creating filter that catches directories ',negative
+'creating filter that catches tst files ',negative
+'csv excel ',negative
+'currently milestone axion doesnt support schemas like other databases set the schema emtpy string detect axion session ',negative
+'currently openedge only supports the pub schema for sequences ',negative
+'cut table image and draw the page ',negative
+'data converted update the table ',negative
+'data editable popup ',negative
+'data object assume already validated ',negative
+'data objects ',negative
+'data string need convert real object ',negative
+'database has been asked cancel the statment ',negative
+'database options ',negative
+'database session statistics ',negative
+'databaserelated functions ',negative
+'databaserelated functions ',negative
+'databaserelated functions ',negative
+'dataholder res getexecutionplan argv databaseretobject ',negative
+'datatype column result set int data rsgetintidx ',negative
+'datatypes may limit the initial data read from the minimize the time needed for the initial load the table edit the contents cell require that the entire contents the data element present the cell before editing therefore ask the datatype need reread the data contents without limiting and that read needed there problem during the read cannot identify exactly one row the matching the current row the table then the cell not editable the reverse not true succeed reading the data there may still other reasons why cannot edit need check for being editable after the read ',negative
+'deactivate indexes during restore restore without creating shadows not reserve space for record versions restores one table time not restore database validity conditions replace database from backup file override old page size new page size restore ',negative
+'dec est overflow fat file systems and the call fails ',negative
+'default behavior appropriate data type found create simple jtextarea with special handling theory this cannot happen because there data type object for this columns data type then iseditableinpopup returns false should not get here there data type object and iseditableinpopup returns true then would have executed the return statement above assume that the value can represented string ',negative
+'default hex unknown base passed ',negative
+'default null types return only cached types ',negative
+'default nullable use null ',negative
+'default nullable use null ',negative
+'default point define font relative that ',negative
+'define filter select only names using the filebase ',negative
+'delete last ',negative
+'delete the old file ',negative
+'delete the row from the table ',negative
+'delete when null original value ',negative
+'deletes the ',negative
+'deletes the last ',negative
+'delimiter sets the separator that tells when procedure this mysqlspecific ',negative
+'description needed handle conversion data tofrom object ',negative
+'desired get fancy and use icons buttons instead text ',positive
+'destination database doesnt support copying tables into objectsn please select schema paste into ',negative
+'destname destname ',negative
+'detail tabs procedure tab ',negative
+'detect whether not the object tree needs refreshing comparing old value new and see they changed ',negative
+'determine size grid tile into for cells ',negative
+'determine the position place the new internal frame ensure that the right end the internal frame doesnt exend past the right end the parent frame use fudge factor the dimwidth doesnt appear get the final width the internal frame where ptx dimwidth parentboundswidth the new internal frame still extends past the right end the parent frame ',negative
+'developers should write english props ',negative
+'dialect delegate for the progress database todo progress specification says that the sum all column lengths table row may not exceed need add interface method the hibernatedialect interface that takes array lengths and and checks the sum columns for row this maximum number may different across databases this check method needs implemented each dialect author manningr ',positive
+'different only type same name ',negative
+'directory containing the standard laf jar files ',negative
+'directory not directory ',negative
+'display the frame ',negative
+'display the result set ',negative
+'display the result set metadata ',negative
+'dist ',negative
+'does not support column comments ',negative
+'doesnt exist prompt create ',negative
+'doesnt support cascade set default set null for constraint update action ',negative
+'doesnt support dropping column ',negative
+'doesnt support set default for constraint delete action ',negative
+'done before actually reading the data from the resultset done after reading the data from the resultset oracle throws when processing resultsetmetadata methods for the resultset returned for ',negative
+'done dispose itself because listeners must fired even donothingonclose mode ',negative
+'done this late that plugins have time register expanders with the object tree prior being built ',negative
+'dont change the case the identifier database allows mixed case ',negative
+'dont forget set this the number statements result ',negative
+'dont invokelater here shortcutkey sent the internal frame seen under java version and linux ',negative
+'dont know this type can used where clauses always exclude ',negative
+'dont show foreignkeys dialog only one index exists modified ',negative
+'dont show indexes dialog only one index exists modified ',negative
+'dont stub return because want verify that the object filter was actually used ',negative
+'dont support switching the entry control during session because serveral things that are attached the entry control from outside this plugin would need reinitialze too for example code completion and edit extras synchronized session factory isqlentrypanel pnl ',negative
+'dont use real type axion sets the column size default yet can handle more precision data being copied from the real column can potentially larger than what the column claims support this will problem for other databases that pay attention the column size todo perhaps reintroduce the real type but use the new getprecisiondigits max out the precision ',positive
+'dont yet have the need discriminate version ',negative
+'double headerwidth tableheadergetwidth scale ',negative
+'double pagebottom pagetop clipheight headerheight ',negative
+'double zoom ',negative
+'downloads directory ',negative
+'downloadscore directory ',negative
+'downloadsplugin directory ',negative
+'draw the header every page ',negative
+'driver says supports schemascatalogs but doesnt provide schemacatalog nodes try get other nodes ',negative
+'drivers ',negative
+'driverslist new driverslistapp ',negative
+'drop columnname ',negative
+'drop conflicts ',negative
+'drop constraints before dropping any tables otherwise may drop the child table prior dropping its fks which would error todo this should done the dialects gettabledropsql method for database specific handlingor ignoring this problem ',positive
+'drop index index exists ',negative
+'drop index indexname ',negative
+'drop sequence sequencename cascade ',negative
+'drop sequence sequencename cascade ',negative
+'drop the existing default value alter table tablename alter columnname drop default ',negative
+'dropindexstatement drop index indexname tablename ',negative
+'easymock class extension helpers since classextension and interface easymock methods cannot used the same mocks this provides convenience not have specify the package name for classextension mocks ',negative
+'editor ',negative
+'either the values null and the other not then the data has changed and fallthrough the change process otherwise check the object contents ',negative
+'ejbql tokens ',negative
+'empty body ',negative
+'empty method ',negative
+'end bracket params might follow ',negative
+'end code related printing ',negative
+'end combined export and execute operations ',negative
+'end constructor for inner class ',negative
+'end mouse listener ',negative
+'endkludge ',positive
+'ensure that the proper type object selected the object tree ',negative
+'entry selected ',negative
+'errors detected ',negative
+'events ',negative
+'example for this code completion should from inner join fetch kpositionen posses where possesartnr sdfsdf ',negative
+'excel xls file ',negative
+'execute the sql command the sql tab and then display the sql tab ',negative
+'execute the sql synchronously ',negative
+'execute validator and return results ',negative
+'executing ',negative
+'existing clob reuse ',negative
+'exists you want replace ',negative
+'expand all the rows the tree the root non null ',negative
+'expanders ',negative
+'expanders trigger and index expanders are added inside the table expander ',negative
+'expanders trigger and index expanders are added inside the table expander new schemaexpander ',negative
+'expect getfile for updated files that were downloaded ',negative
+'expect getfile for updated files that will removed ',negative
+'expectations that are specific this test ',negative
+'expected ',negative
+'expected fileoperationinfos for files that will installed ',negative
+'export data file ',negative
+'export file already exisits would you like replace ',negative
+'export object osxfile ',negative
+'export object osxfile execute program import back ',negative
+'extractors ',negative
+'failed normalized strings differ ',negative
+'failnot yet implemented ',negative
+'failure tests ',negative
+'fall through default ',negative
+'fall through normal processing this key stroke ',negative
+'false ',negative
+'field not nullable ',negative
+'field not nullable create reasonable default value ',negative
+'field not nullable create reasonable default value cannot create default value for unknown data type ',negative
+'field not nullable input was not delete have already handled all legal input just tell user this being ignored ',negative
+'figure out which column the user clicked can pass the right column description ',negative
+'file ',negative
+'file complete ',negative
+'file does not already exist try create ',negative
+'file exists normal and writable see user wants overwrite contents file ',negative
+'file name default and cmd null empty make sure this entry not being held ',negative
+'file name verification operations are the same for both export and execute that work here for both file name null empty not proceed ',negative
+'file object for doing ',negative
+'file related functions ',negative
+'file related functions ',negative
+'file related functions ',negative
+'filefilter ',negative
+'filling columns ',negative
+'final map map return ',negative
+'final resources rsrc ',negative
+'final textareadefaults dfts columnstyle commentstyle keywordstyle keywordstyle keywordstyle labelstyle literalstyle operatorstyle otherstyle dftsstylestokennull tablestyle ',negative
+'finding nonexistent directory create ',negative
+'finding nonexistent directory for tests and this necessary because getcanonicalpath case sensitive and could cause failure the test the directory exists but with different case letters temp and temp ',negative
+'finished ',negative
+'first attempt add data underlying table model ',negative
+'first convert internal data into the string array ',negative
+'first have the methods for incell and texttable operations ',negative
+'first have the methods for incell and texttable operations ',negative
+'first have the methods for incell and texttable operations ',negative
+'first time through skip the double spacing ',negative
+'first time user has run pgm ',negative
+'fix the case according what the database tells ',negative
+'fixes classcastexception see below ',negative
+'fki default startname ',negative
+'flag for whether have already loaded the properties not ',negative
+'flag indicates changing textarea ',negative
+'flaten would turn statement parts comment ',negative
+'folder contain extra lafs supplied the user ',negative
+'folder store user settings ',negative
+'folder that stores themepacks for this laf ',negative
+'folder within plugins folder that belongs this plugin ',negative
+'for ',negative
+'for convenience cast the existing object ',negative
+'for convenience cast the object clobdescriptor ',negative
+'for convenience cast the value object its type ',negative
+'for each element the not use set selected then add use otherwise add new not use set ',negative
+'for each row table count how many rows match where clause not exactly one generate message describing situation ',negative
+'for entries past the first one use the default renderer ',negative
+'for now ignore popup request ',negative
+'for now use the same renderer everyone else future change this use new instance renderer for this data type ',positive
+'for oracle could say something like where xmlserializecontent coldefgetlabel like value this doesnt appear work oracle the moment will avoid using this column any where clause the value nonnull which what the superclass implementation does todo find way this for both versions split this behavior that works and disabled ',negative
+'for pointbase type maps pointbase blob and the size isnt valid requires size for blobs then set something reasonably large like the default size size specified thats practically useless ',positive
+'for some reason frontbase doesnt find tables that have been previously created ',negative
+'for some reason when the oracle plugin adds details tabs for triggers the tabpnls first tab ends being the trigger details tab and not the generic database object info tab this causes the tabs length tab greater than the tabs that are actually the tabpnl this throws off the selection such that the tab selected the tab panel doesnt get rendered until the tab the right the selected tab selected this workaround for this problem until can determine why the never makes into the tabpnl the first place ',positive
+'for testing the live server url lurl new ',negative
+'for testing the local machine url lurl new ',negative
+'for the serialization test superclass cannot use mockhelper because the replay needs done here ',negative
+'force the laf set even tonic the current one this allows changes take affect ',negative
+'foreign key ',negative
+'front pad with zeros and add output ',negative
+'frontbase describes its tables base table ',negative
+'fudge for larger inset windows ',negative
+'fulltext indexes ',negative
+'generally for keytyped this means add the typed char the end the text but there are some things control chars that are ignored let the normal processing its thing ',negative
+'get all the data types available ',negative
+'get each datatypes info ',negative
+'get each tables info ',negative
+'get list all plugin developers names allow for multiple developers for plugin the form john smith james brown ',negative
+'get name file which must exist ',negative
+'get osxfile for export external processing ',negative
+'get parameters previously set user set default values set use the java default ',negative
+'get primary key info for table ',negative
+'get the default values from the for the table columns ',negative
+'get the hashmap for this type create this new property ',negative
+'get the history into array ',negative
+'get the nullability information and pass into the resultset unfortunately not all dbmss provide the column number object stated the sql documentation have guess that the result set column order ',negative
+'get the real name for use later ',negative
+'get the releasexml file channelxmlbean from the server filesystem ',negative
+'get the tableinfo for the selected object the tree ',negative
+'get the text converted ',negative
+'get the values from the controls and set them the static properties ',negative
+'get the values from the not use list ',negative
+'get the values from the not use list and convert sorted set ',negative
+'get the values from the use list ',negative
+'get where clause the says ignore the last arg and use the contents the values array for the column that care about however since the data that column has been limited when getwhereclause calls that datatype with that value the datatype will see that the data has been limited and therefore cannnot used the where clause some cases may possible for the datatype use the partial data such matches data but that may not standard accross all databases and thus may risky ',negative
+'getcolumnaddsql ',negative
+'getcolumndropsql ',negative
+'getinsertintosql ',negative
+'getroot doesnt appear return the deepest window but the first one you have dialog owned window you get the dialog not the window ',negative
+'gets ',negative
+'getters and setters ',negative
+'getting javasqldriver run shutdown command ',negative
+'getupdatesql ',negative
+'gfillovalintzoomfpx rad intzoomfpy rad rad rad ',negative
+'global misc ',negative
+'groups ',negative
+'guaranteed nonnull ',negative
+'guard against something really stupid ',negative
+'gui components need here because they need accessible from the event handlers alter each others state ',negative
+'gui components need here because they need accessible from the event handlers alter each others state ',negative
+'gwg xml format check code ',negative
+'hack deal with firebirds rdb meta tables ',positive
+'hack deal with ingres iie meta tables ',positive
+'hack deal with sybases sys tables ',positive
+'hack some dbs like frontbase dont support boolean types ive tried tinyint bit and boolean the column type and setboolean fails for all three its mystery this point what column the methods actually work iin frontbase ',positive
+'hand file input stream datatype object for import also handle file errors here that datatype objects not have ',negative
+'handle ascii chars irrespective the radix the second byte will always space when the data displayed single ascii character ',negative
+'handle cases null the only legal input this case delete ',negative
+'handle cases null the processing different when nulls are allowed and when they are not ',negative
+'handle crossconnection between fields ',negative
+'handle mouse events for doubleclick creation popup dialog this happens only the jtextfield not the jtextarea can make this inner class within this method rather than separate inner class done with the keytexthandler class ',negative
+'handle null ',negative
+'handle null which shown the special string null ',negative
+'handle special case delete with null contents ',negative
+'handle table source ',negative
+'handy have the cannonical path name show user error messages since getting that name might involve ioexception need put inside try statement however since the file does exist there good reason for getting ioexception this point but get one there something seriously wrong and want abort therefore make sense get that name here and save for later use ',negative
+'has snapshot iterators that dont support iteratorremove ',negative
+'have appropriate data type object ',negative
+'have core translation file that not already installed add ',negative
+'have seen the reference the outer class being null when this method called have seen only with the runtime jars and linux could not reproduce ide ',negative
+'have the datatype object fill the appropriate kind value into the appropriate variable position the prepared stmt ',negative
+'have the whole contents the clob ',negative
+'helper methods ',negative
+'helper methods ',negative
+'here the max line length original line size doesnt get trimmed white space ',negative
+'here the replacement ',negative
+'here use index inside column names that dont have alias the columns the dialect different dialects call these sequence information columns different names just make sure preserve the order the dialect lastvalue maxvalue minvalue cachevalue incrementby iscycled ',negative
+'history file not found for user first time user ran pgm ',negative
+'hold the state ',negative
+'how use timestamp where clauses default sql standard ',negative
+'iapplication application getapplication null false ',negative
+'ibm specific code read procedure definitions ',negative
+'ident annotation noin ',negative
+'ignore any sqlexceptions this would only could not get column info from the sql database meta data ',negative
+'ignore the user input ',negative
+'ignore unused ',negative
+'imainframe false ',negative
+'implementataion delegation ',negative
+'implemented all originally supported dialects ',negative
+'import and external processing can only done panel editable ',negative
+'import object from osxfile ',negative
+'import the data back from the same file ',negative
+'important process the name change first that can use the new name instead the old subsequent alterations ',negative
+'impossible ',negative
+'incomplete and error tokenids ',negative
+'increases component width pixels ',negative
+'increases component width pixels ',negative
+'increment ',negative
+'index ',negative
+'index source ',negative
+'index tab ',negative
+'infavsnewfoldernew folder ',negative
+'infos ',negative
+'ininbundlebundle ',negative
+'inininfoinfo ',negative
+'ininnofilesopenedno file foundnsee message panel for details ',negative
+'ininsourcedirsource directory ',negative
+'initial load prefs ',negative
+'initialize all the laf controllers ',negative
+'inject mocks ',negative
+'inlafjarsl jars ',negative
+'inner class for the data display pane ',negative
+'inoraclenosqlno sql selected for execution ',negative
+'inoraclerowsrows ',negative
+'input the parameter values ',negative
+'inserts are not properly separated give ',negative
+'instances ',negative
+'instantdb least version only returns tables for gettabletypes you try use this call tables will found for the moment hard code the types for instantdb ',negative
+'int featureid string msg featureid throw new ',negative
+'int progress loadschemas load tables with catalog null ',negative
+'internal class for handling key events during editing both jtextfield and jtextarea ',negative
+'internal class for handling key events during editing both jtextfield and jtextarea ',negative
+'internal class for handling key events during editing both jtextfield and jtextarea ',negative
+'internal class for handling key events during editing both jtextfield and jtextarea since neither cell nor popup are allowed edit just ignore anything seen here ',negative
+'internal states inside white space inside line comment inside block comment inside string constant inside string constant after backslash inside char constant inside char constant after backslash inside identifier slash char after after after after after after after after after after after after after after after after integer number octal number double number double number hex number after ',negative
+'iobjecttreeapi api ',negative
+'its error have and octal number ',negative
+'its primary just write without the filegroup prefix ',negative
+'jason make menu smarter when second window for the same session added create hierarchical menu for all windows for the session ',positive
+'jason messages height should stored with this ',negative
+'jason what are its valid values ',negative
+'javasqltypes ',negative
+'jdbc driver failedncan not load driver properties tab ',negative
+'jinternalframe frames ',negative
+'jmh for additional performance could utilise the fixedtablesequence column from the session investigate which rows need updated refresh see vsession doco for more info ',negative
+'jmh remove the current sql text create tabbed pane for session details including sql text ',negative
+'jsplitpaneright ',negative
+'just add the tab ',negative
+'just case table editable call creator set cell editors ',negative
+'just finish cant sleep until ensure there nothing else for use try again keep track this ',negative
+'just helper make the fromresultset below look nicer ',negative
+'just plain data ',negative
+'just send the text the output file ',negative
+'keylistener indicate changing text ',negative
+'keys that can embedded templates for replacement later ',negative
+'know that its not interesting show any code above where get involved event dispatch stop printing the stack trace when get far back our code ',negative
+'labels ',negative
+'labels should stay put while userinput fields are allowed grow the user desires ',negative
+'last value ',negative
+'layout ',negative
+'least more row left ',negative
+'leftdataaddrow rightdataaddrow ',negative
+'let user enter for true and for false ',negative
+'light blue colors ',negative
+'light yellow ',negative
+'line separator for easy using ',negative
+'line should look like this line with spanembedded keyspan ',negative
+'lis ',negative
+'load cell importexport selections from persistant storage ',negative
+'load filename and command with previously entered info not the default ',negative
+'load info about the standard lafs that come with this plugin ',negative
+'load plugin preferences ',negative
+'load resources ',negative
+'load resources such menu items etc ',negative
+'load sql history from persistant storage ',negative
+'load the info into the text fields ',negative
+'load the local releasexml file channelxmlbean ',negative
+'local constraint ',negative
+'lock tab ',negative
+'logger for this class ',negative
+'loginfosql executed sql ',negative
+'loginfosql starting execute sql ',negative
+'look for illegal chars ',negative
+'look forward ',negative
+'main window ',negative
+'make few calls ',negative
+'make sure the entire clob data read return true has been read successfully and false not ',negative
+'make sure there instance ',negative
+'make the button looks the same for all lafs ',negative
+'make the shortcut visible the popup ',negative
+'making nice rollover effect use the same listener for all buttons ',negative
+'malformed uri ',negative
+'map for quick lookup later want pass tablecolumninfos the dialect not merely column names ',negative
+'matt dahlman this causes problems with the jdbc driver delivered with teradata ',negative
+'max size reached ',negative
+'maximum ',negative
+'maximum time wont warn about ',negative
+'maybe with inner join better performance ',negative
+'menu for rightmouseclick when cell editors ',negative
+'menues that are also shown the main window session menu might this popup dont remove them the session wont garbage collected ',negative
+'merge columns existing column ',negative
+'merge columns new column ',negative
+'method tests ',negative
+'might also catalog schema name ',negative
+'minimum ',negative
+'misc ',negative
+'misc functions based oracle dialect ',negative
+'mmmysql driver doesnt support null for column name ',negative
+'mock objects ',negative
+'mock objects ',negative
+'mock objects ',negative
+'mock objects ',negative
+'mockapplication ',negative
+'mockconnection ',negative
+'mockfontinfo ',negative
+'mocksqlconnection ',negative
+'mocksqldriver ',negative
+'mockthreadpool ',negative
+'mode ',negative
+'modified autocompute column widths computewidths true ',negative
+'more space above ',negative
+'more space below ',negative
+'more than one selection allowed check see should change the selection ',negative
+'move over leading whitespaces ',negative
+'must iterate through this descending order avoid removing say item making item into item inadvertently removing item ',negative
+'must provide export file name ',negative
+'myid myid stringtemplate new ',negative
+'mysql allows statement separators procedure blocks the process tokenizing above renders these procedure blocks separate statements which are not valid executed separately here reassemble any create statements that find using the beginning procedure block pattern and the procedure separator ',negative
+'mysql and below mysql and above ',negative
+'mysql disallows quoted column identifiers ',negative
+'mysql disallows quoted column identifiers when adding primary key ',negative
+'mysql disallows quoted column identifiers when dropping column ',negative
+'mysql disallows quoted constraint names ',negative
+'name ',negative
+'name ',negative
+'name file exportimportprocess ',negative
+'name owner type createddatetime billing dbo user table ',negative
+'nchanges cannot applied ',negative
+'need adjust param which basedjdbc based number for array access ',negative
+'need for conversion ',negative
+'need remove the existing jar the plugins directory and all the files beneath the pluginnamed directory ',negative
+'need return clone and cant use clone because valueslength might greater than columnscount ',negative
+'need table column model able add celleditors the individual columns ',negative
+'need this buffer because this method may called asynchronously the event dispatch thread what could happen that currentaliasinfos ist changed ',negative
+'need this method satisfy one the interfaces implement but since have moved all operations the datatype subpanels which initialize their own data during creation there nothing for here ',negative
+'need this order allow the user see this plugin which isnt loaded the plugin summary dialog that they can enable ',negative
+'needed make the panel set the divider location from preferences ',negative
+'needed prevent infinite loop ',negative
+'needed resize completion panle appropriately see initializationof ',negative
+'needs done both cases because the window goes back the default layer goes back behind all other windows too ',negative
+'new ',negative
+'new ',negative
+'new and replaced properties ',negative
+'new indexdetailstab ',negative
+'new line ',negative
+'new menumask new menumask inputeventshiftmask new inputeventshiftmask ',negative
+'new name the table ',negative
+'new new sequencedetailstab ',negative
+'new originalfactory ',negative
+'newid seqnamenextval ',negative
+'nil out the timer that can gcd ',negative
+'noin ',negative
+'noin ',negative
+'nondelete when null clear field and add text ',negative
+'nonempty set rows delete make sure user wants delete ',negative
+'nonjavadoc see ',negative
+'nonjavadoc see ',negative
+'nonjavadoc see ',negative
+'nonjavadoc see ',negative
+'nonjavadoc see ',negative
+'nonjavadoc see ',negative
+'nonjavadoc see ',negative
+'nonjavadoc see ',negative
+'nonjavadoc see ',negative
+'nonjavadoc see ',negative
+'nonjavadoc see ',negative
+'nonjavadoc see ',negative
+'nonnull return tells caller there was problem ',negative
+'not all oracles just and above ',negative
+'not allowed must have existing file for import ',negative
+'not expect lot files this directory just things linearly ',negative
+'not found will created ',negative
+'not implemented ',positive
+'not import ',negative
+'not locate the database object object tree ',negative
+'not necessarily the case just curious have any components that need reread ',negative
+'not recognize this button request ',negative
+'not scroll pane ',negative
+'not successful ',negative
+'not too many old files ',negative
+'not try fancy and insert the data where the user looking just stuff into the actual model and repaint the table when the table changed event fired ',negative
+'not uri assume string filename ',negative
+'note there are two rows note mssqlconstraint holds the columns the table participating the key note holds the columns the referenced table the same order ',negative
+'nothing ',negative
+'nothing object tree opened ',negative
+'notify table that rows have changed the deleted rows may not contiguous the actual data model because the gui may showing version the data sorted some other order cannot use firerowsdeleted ',negative
+'now bind the string ',negative
+'now check length strings splitpieces again ',negative
+'now check see the original contents were null and have actually added the input char the end ',negative
+'now check sure get both catalogs ',negative
+'now check sure get both schemas ',negative
+'now create array large enough hold the original and the new ',negative
+'now get the drop order same delete and update the dialog status while doing ',negative
+'now selectreorder columns ',negative
+'now tableandcolumns contains the table name and tableandcolumns contains the bracketed list columns ',negative
+'now the functions for the popuprelated operations ',negative
+'now the functions for the popuprelated operations ',negative
+'now the functions for the popuprelated operations ',negative
+'null the case when there are schemas specified will then ',negative
+'number chars used represent byte the base radix ',negative
+'object that called and that want return data when done ',negative
+'object tree expanders schema expanders sequence ',negative
+'objects ',negative
+'obtain hibernate sessionfactoryimpl instance squirrel should ',negative
+'occured closing connection ',negative
+'ocured during task execution ',negative
+'oddly enough progress will let you add pks existing tables but not drop them ',negative
+'old test left behind garbage files this time creates directory that guaranteed not already exist and deletes afterward ',negative
+'old version before multible sesssion windows return ',negative
+'old version return ',negative
+'one may ask why dont register the key strokes permanently when did with two internal frames open the key stroke event sometimes went the wrong frame this doesnt happen procede like the question why ',negative
+'one two passes ',negative
+'only check once per session ',negative
+'only gives the sql without the cascaderestrict constraint ',negative
+'only oracle supports materialized views directly ',negative
+'only resize once ',negative
+'only show row counts for tables and views other objects wont affected changing row counts ',negative
+'only single selection can made time ',negative
+'only the first row containing data editable ',negative
+'open file nerror was ',negative
+'open file output stream ',negative
+'operator numericids ',negative
+'options for specific data types ',negative
+'options full checkbox ',negative
+'oracle action implied when the delete clause omitted ',negative
+'oracle allows statement separators plsql blocks the process tokenizing above renders these procedure blocks separate statements which invalid for oracle since the way sqlplus denote the end procedure function reassemble any create statements that find this should done before expanding file includes otherwise any create sql found files will already joined causing this find create sql without matching the process expanding file includes already joins the sql fragments that finds ',negative
+'oracle doesnt allow unique bitmap indexes ',negative
+'oracle matchfull modifier not supported ',negative
+'oracle plan table doesnt exist the current schema you want create ',negative
+'oracle wont allow inplace conversion between clob and varchar ',negative
+'our separator the regular expression special char then quote before formatting ',negative
+'output ',negative
+'override the functions that need changed tell the table mechanisms how editing ',negative
+'overriding superclass behavior ',negative
+'owner object grantee grantor protecttype action column dbo billingbak public dbo grant delete dbo billingbak public dbo grant insert dbo billingbak public dbo grant select allnew dbo billingbak public dbo grant update allnew dbo billingbak usbilling dbo deny insert ',negative
+'page number message smaller type ',negative
+'parse hytestvmargs was given ',negative
+'persists the change list the update directory ',negative
+'pick tableinfo remove and replace ',negative
+'pktablename pkcolumnname fkcolumnname fkname ',negative
+'plantable store the result ',negative
+'plantables ',negative
+'plugin supports only the main session window ',negative
+'plugin supports session main window only ',negative
+'plugin supports session main window only ',negative
+'point ordering less than tables ',negative
+'popup menus ',negative
+'position window where was when last closed this not the screen move back the screen ',negative
+'possible for table contain only columns types that cannot process selects check for that since this check the structure the table rather than the contents only need once not needed ',negative
+'postgresql least returns false for even though does support them ',negative
+'postgresql need add sequence support autoincrement name tablenamecolnameseq ',negative
+'postgresql reports length sometimes why ',negative
+'postgresql uses literal values truefalse instead ',negative
+'prefix for the jcc sqlexception class name ',negative
+'prefs ',negative
+'prepare have lot ',negative
+'prerequisites are that column needs primary key and must integer type alter table identitytest alter column myid identity ',negative
+'preselection ',negative
+'primary key ',negative
+'primary key for the selected table ',negative
+'private boolean brackethighlighting true ',negative
+'private boolean showheadings ',negative
+'private columnstab columntab ',negative
+'private final int tablecoldatatype not used ',negative
+'private final jmenu editmenu ',negative
+'private final static ilogger slog ',negative
+'private final static ilogger slog ',negative
+'private final static ilogger slog ',negative
+'private final static ilogger slog ',negative
+'private final static ilogger slog ',negative
+'private hdgs new ',negative
+'private int caretrgb colorredgetrgb private int selectionrgb xccccff private int linehighlightrgb private int eolmarkerrgb private int brackethighlightrgb colorblackgetrgb private int linenumberrgb colorblackgetrgb ',negative
+'private int lastsessionidx ',negative
+'private map alltabs new hashmap ',negative
+'private props new ',negative
+'private sqldriverprops ',negative
+'private static final class cellrenderer extends public component list object value int index boolean isselected boolean cellhasfocus return this ',negative
+'private static final string ',negative
+'private static final string perfkeyobjtabdivloc ',negative
+'private static final string prefsfilename sqlparamprefsxml ',negative
+'private static ilogger slog ',negative
+'private string getfilenamefile dir string name return getfilenamenew filedir name ',negative
+'private tablecolumnsdataset iut null ',negative
+'private void pbuffer string psprivilege ',negative
+'problem during updatenno count inserted rows was returnedndatabase may corrupted ',negative
+'problems indicate successful update the underlying data case are editing sql result that contains the edited colum more than once need tell the caller update all columns otherwise generation where clauses for further editing will fail ',negative
+'procedure source ',negative
+'procedure source ',negative
+'procedure source ',negative
+'process the listeners last first notifying those that are interested this event ',negative
+'prompt the user add website url for this driver ',negative
+'property change control panel ',negative
+'property panels for squirrel ',negative
+'provide the actual integer value well its meaning ',negative
+'public api ',negative
+'public conn itableinfo throws sqlexception setrenderernew cellrenderer this renderer uses the unqualified column name the text display the combo private static final class cellrenderer extends cellrenderer super setopaquetrue public component list object value int index boolean isselected boolean cellhasfocus return this ',negative
+'public int getpixelwidth int pixelbycm int cmbyinch return intformatgetwidth pixelbycm public int getpixelheight int pixelbycm int cmbyinch return intformatgetheight pixelbycm ',negative
+'public sqlfilterclauses getsqlfilterclauses return sqlfilterclauses ',negative
+'put all available look and feel objects into collections keyed laf name and the class name ',negative
+'put description the field the following rows ',negative
+'put the and the front the clause there are already values the text area ',negative
+'put the data and header names into the model ',negative
+'put the initial text into the text pane and set its initial coloring style ',negative
+'put the property into the hashmap ',negative
+'qname lqn new qname sessiondata ',negative
+'qname lqn new qname validatorresult ',negative
+'qualified names ',negative
+'qualifier prefs this ',negative
+'querytokenizer tests ',negative
+'questions ',negative
+'reach here could not calculate place add the new table frame now will automatically added ',negative
+'reach this point the value has been changed fall through next section ',negative
+'read the entire row since some drivers complain columns are read out sequence ',negative
+'reads per row ',negative
+'rebuild the bookmark menu ',negative
+'refresh the currently selected tab ',negative
+'register custom datatypecomponent factory for derby clob type ',negative
+'register custom datatypecomponent factory for oracles xmltype ',negative
+'register tabs display the details panel for udt nodes ',negative
+'regression for harmony ',negative
+'regression test for harmony ',negative
+'regression test for harmony ',negative
+'regression test for harmony ',negative
+'reload all matching procedure types ',negative
+'reload complete schemainfo ',negative
+'remove all instances the offending char ',negative
+'remove old sticky tab ',negative
+'remove trailing ',negative
+'removed for comment ',negative
+'removed for duplicate line ',negative
+'rename view has that same syntax that tables ',negative
+'repaint the page for printing ',negative
+'replace any instance flag command with file name ',negative
+'replace the null with just the char ',negative
+'replace with typeslongnvarchar when java the minimum supported version ',negative
+'replace with typesnchar when java the minimum supported version ',negative
+'replace with typesnclob when java the minimum supported version ',negative
+'replace with typesnvarchar when java the minimum supported version ',negative
+'replace with typessqlxml when java the minimum supported version ',negative
+'required linux ',negative
+'required otherwise gets too wide ',positive
+'reregistering driver necessary for embedded derby ',negative
+'reset each time start new print ',negative
+'reset width normal ',negative
+'resolving file name ',negative
+'restore the contents the original value ',negative
+'result checking for jaybird driver with major version ',negative
+'resultset null biginttypetable new string table ',negative
+'retrieving default column values ',negative
+'return ',negative
+'return ',negative
+'return ',negative
+'return jtextarea usable the cellpopupdialog and fill the value ',negative
+'return jtextarea usable the cellpopupdialog and fill the value ',negative
+'return mainframe ',negative
+'return the expected format for this data ',negative
+'return the expected format for this data default hex ',negative
+'return the text converted from the file ',negative
+'return the text from the file since does represent valid data value ',negative
+'rob removed replacement via regexp because needed several regexp escapes val ',negative
+'row ',negative
+'rows ',negative
+'rows deleted ',negative
+'rows inserted ',negative
+'rows the selected table ',negative
+'save data passed ',negative
+'save options selected for datatypespecific properties ',negative
+'save the input for use later ',negative
+'save the original value for reuse clobblob types conversion ',negative
+'save the pointer needed enable editing data ondemand ',negative
+'save various information which needed update cancel ',negative
+'saved size ',negative
+'schema ',negative
+'schema dependent data are changed only this class ',negative
+'scriptenvironment env new ownerframe ',negative
+'scripts ',negative
+'scripts ',negative
+'scripts for all dependent objects ',negative
+'searchable column result set ',negative
+'see ',negative
+'see file exists ',negative
+'see that the replacement was already done before can count this replaced ',negative
+'see there was problem during parsing ',negative
+'select lastvalue maxvalue minvalue cachevalue incrementby iscycled from sequencename ',negative
+'select remarks from syscatsequences where seqname and seqschema schema ',negative
+'select the bookmark delete ',negative
+'select the one just added ',negative
+'select viewdefinition from where tableschema and tablename ',negative
+'select viewtext from informixsystables informixsysviews where tabname aview and ttabid ttabid ',negative
+'selecting window ',negative
+'selecting window ',negative
+'selects the values for the where part ',negative
+'selects the values from the existing table ',negative
+'selects the values from the merge table ',negative
+'send tree expansion event the object tree ',negative
+'sequence ',negative
+'sequence details ',negative
+'sequence tabs ',negative
+'sequence type dbo ',negative
+'serveral dbs automatically create index for primary key fields and return this index getindexinfo remove this index from the script because would break the script with index already exists error ',negative
+'session colors for this alias ',negative
+'session details ',negative
+'session info for ',negative
+'sessions ',negative
+'set cell editors first row ',negative
+'set column heading set data first row ',negative
+'set default colors ',negative
+'set default primary key name based the name the table ',negative
+'set focus password control default user name has been setup ',negative
+'set jdbc debug log output stream ',negative
+'set layout ',negative
+'set object tree color panel ',negative
+'set the list column names and the data for the rows ',negative
+'set the read from the file just created ',negative
+'set the return type ',negative
+'set the target server and name space ',negative
+'set this your application interactive where the user enters queries and then runs them set non interactive such for instance jdbc bridge driver that intercepts sql ',negative
+'setrenderernew cellrenderer ',negative
+'setters and getters for each field ',negative
+'setting color ',negative
+'setting the starting position ugly just picked point ',negative
+'settings ',negative
+'settings gap sizes ',negative
+'setup dest mock file ',negative
+'setup expectations ',negative
+'setup one column multiple rows ',negative
+'setup preferences make jgoodies laf look better booleantrue booleantrue ',negative
+'setup source mock file ',negative
+'setup the applications look and feel ',negative
+'several number formats use decimal separator others use ',negative
+'sga trace for ',negative
+'sheet types ',negative
+'shift the image for pressed buttons ',negative
+'short scale ',negative
+'should least bind the tablename bind var the sql ',negative
+'should never get here because the areequal function only called when are trying update the database know that have datatype object for this column would have been stopped from editing the iseditablexxx methods but need return here keep the compiler happy ',negative
+'should the data first cloned that the sorting doesnt take place the array that used getvalue todo this must sorting done thread ',positive
+'show all tooltips for ten seconds before hiding ',negative
+'show the user dialog with list columns and ask them select ',negative
+'show the user dialog with list columns and ask them select one more columns drop ',negative
+'show this message again ',negative
+'show users the object tee ',negative
+'silently ignore what could anyway ',positive
+'similarly trying delete readonly directory should succeed ',negative
+'simple check see the string might contain xml not ',negative
+'simulate the user switching the statement separator for the session ',negative
+'since cannot exact matches floating point numbers cannot use this field the where clause ',negative
+'since data editable need add control panel manage user requests for update file etc ',negative
+'since depend upon the connection class associated with the isession need keep reference the isession are associated with however this session could closed which time want give our reference that can garbage collected ',negative
+'since depend upon the informixspecific ifmxconnection class need keep reference the isession are associated with however this session could closed which time want give our reference that can garbage collected ',negative
+'since dialect doesnt support altering sequences drop then recreate ',negative
+'since likely have its own line and key letting know that proceeding statements form multistatement procedure function deserves its own place the queries arraylist followed other procedure function creation blocks may fail detect that this just goes through the list and breaks apart statements newline that this cannot happen ',negative
+'since the above did not throw exception now have good new data object change the text area reflect that new object ',negative
+'since the letter wasnt special letter this will the first letter our current column ',negative
+'since this thread not thread run the task synchronously ',negative
+'since user now using popup stop editing using the incell editor any ',negative
+'size ',negative
+'size set child windows ',negative
+'skip comments ',negative
+'sloginfonot all selected objects where tables ',negative
+'some actions dont have accelerators ',negative
+'some cols are not used ',negative
+'some data ',negative
+'some databases cannot order longlob columns ',negative
+'some drivers will give null ',negative
+'some formats hex octal extend negative number multiple places becomes fffc chop off extra stuff front ',negative
+'some people put new line characters their sql have nice debug output remove these new line characters too ',negative
+'some tables have pseudo column primary keys and others not jdbc some dbmss does not handle pseudo columns correctly also gettables returns views well tables the thing are looking might not table jdbc does not give simple way determine what are looking since the type object described dbmsspecific encoding for these reasons rather than testing for all these conditions just try using the pseudo column info get the table data and that fails try get the table data without using the pseudo column todo should change the mode from editable noneditable ',positive
+'sort and store new ',negative
+'sort the indexes into ascending order because that the only function easilly available from the arrays class ',negative
+'sort the list ',negative
+'spec says max but the driver throws exception ',negative
+'special handling operations while editing this data type ',negative
+'springinjected ',negative
+'springinjected dependencies ',negative
+'sql ',negative
+'sql ',negative
+'sql reference guide says but get the specified row size exceeded the maximum allowable row width sql state error code when above ',negative
+'sqlexecutertask task new sql new jmh run jmhtaskrun set the the statement identifier ',negative
+'sqlserver doesnt support cascade clause ',negative
+'squirrel bookmarks ctrlj popup ',negative
+'squirrelaction descriptions already contain the accelerator ',negative
+'standard sql functions ',negative
+'start ',negative
+'start the thread that does the coloring ',negative
+'status bean ',negative
+'stay blockcomment state ',negative
+'stay linecomment state ',negative
+'sticky ',negative
+'sticky turned off just remove sticky and return ',negative
+'still have bind value else the will throw exception ',negative
+'stored procedures can have comments embedded them dont linewrap them ',negative
+'stored the checksum operation failed this will ensure that comparison with any other files checksum will different even they happen the same file ',negative
+'stores all names upper case postgresql stores all names lower case thats why may not find proc was written the create statement try out the upper and lower case names too ',negative
+'stores all names upper case postgresql stores table names lower case thats why may not find table was written the create statement try out the upper and lower case names too ',negative
+'strange that release xml file wasnt found but not problem this point just log ',negative
+'stray sep failed find pattern ',negative
+'string catalog string schema string simplename string tabletype string remarks ',negative
+'string eolmarkers eolmarkers string eolmarkercolor eolmarkercolor ',negative
+'string linenumbercolor linenumbercolor string selectioncolor selectioncolor string showlinenbrs showlinenumbers ',negative
+'string path releasesnapshot ',negative
+'string string ',negative
+'subclass foo with the same values the original ',negative
+'subtracting milliseconds from the orgtime file ',negative
+'subtracting milliseconds from the orgtime file ',negative
+'successful ',negative
+'successfully exported file ',negative
+'supply the user name you use anonymous you will logged and the will ignored ',negative
+'supports session main window only ',negative
+'sybase adaptive server enterprise ',negative
+'sybase fully supports quotation marks for identifiers and reports the identifier quote string yeah they got right ',negative
+'sybasease specific code read procedure definitions ',negative
+'symbol not expected ',negative
+'synchronize the outer class because thats where all the state lives ',negative
+'tab button ',negative
+'table ',negative
+'table classes ',negative
+'table doesnt exist source ',negative
+'table expanders trigger and index expander ',negative
+'table list ',negative
+'table list ',negative
+'table name ',negative
+'table scripting panel ',negative
+'table type dbo ',negative
+'table which are part needed for creating popup dialog ',negative
+'tablecat tableschem tablename columnname datatype typename columnsize decimaldigits numprecradix nullable remarks columndef charoctetlength ordinalposition isnullable ',negative
+'tables that have least one child table and have least one parent table ',negative
+'tabs add the catalog nodes ',negative
+'tabs and newlines get put into the text before this check remove them this only applies popup editing since these chars are not passed this level the incell editor ',negative
+'tell creator delete from ',negative
+'tell the underlying data model make itself editable which includes telling the gui rebuild itself ',negative
+'tell the user that they wont able show the explain plan ',negative
+'tell user editable ',negative
+'tell user that there was problem ',negative
+'template bodies ',negative
+'templates ',negative
+'temporary events need included case modla dialog opens ',negative
+'test constants ',negative
+'test ensure that allow sessions that are ending gcd ',negative
+'test for attempting call listfiles nonexistent directory ',negative
+'test for creating file that already exists ',negative
+'test make long path ',negative
+'test make many paths ',negative
+'test make sure that listfiles can read hidden files ',negative
+'test make sure that only the files that were created are listed ',negative
+'test make sure that the tempfile was saved the correct location and with the correct prefixsuffix ',negative
+'test see can fool matchkeyprefix into assuming that there will the end the path since row count enabled yet well send string that doesnt have this characteristic ',negative
+'test see correct suffix was used create the tempfile ',negative
+'test see that table matches table should since only the row count different ',negative
+'test see the correct number directories are returned ',negative
+'test see the correct number files are returned ',negative
+'test see the directory was saved with the correct name ',negative
+'test that the string valid converting into object this data type ',negative
+'test whether not the dialect correctly converts nullable columns notnull before applying the primary key necessary ',negative
+'tests ',negative
+'tests see the correct number files were returned ',negative
+'text added ',negative
+'text cannot edited the cell but can edited the popup show that changing the text colors ',negative
+'text field for how many bytes blob read ',negative
+'the added above holds reference the syntaxpreferences the current session which itself holds reference the session remove the give the session the chance get garbage collected ',negative
+'the call here the result desperate fight find place where the components the split had not height someone knows better way please tell ill apreciate any advice ',positive
+'the caller does not need know that nothing happened ',negative
+'the cellrenderer used for this data type ',negative
+'the check gets till here have all the need information ',negative
+'the check gets till here have all the needed information ',negative
+'the code bellow only for embedded derby driver ',negative
+'the connection technology used could odbc jdbc ado this optional you dont want give out this info please enter ',negative
+'the constructor above sets this from resources but well override with the name the index ',negative
+'the conversion into the object safe manner ',negative
+'the conversion into the object safe manner special case the input exactly the output ',negative
+'the ctrl enter short cut the netbeans editor set the since the ctrl enter shorcut basic squirrel short cut and defined via the main menu action must remove this binding here ',negative
+'the data not binary then there need for conversion the data hex with ascii not shown chars then conversion needed ',negative
+'the dataobject returns string put into the popup which can later converted the appropriate object type ',negative
+'the dateformat object use for all localedependent formatting this reset each time the user changes the previous settings ',negative
+'the directory exists add one the directory number making new directory name ',negative
+'the field binary and not the format expected the datatype default hex ',negative
+'the file was temp file delete now assume that exportonly operations want leave the file place but execute operations just want temp space work with and not want lying around afterwards ',negative
+'the first time that schemas are asked for return just one ',negative
+'the following can cause and exception the text not formatted correctly ',negative
+'the following only useable for root type internalframe the root type dialog frame then other code must used ',negative
+'the following pointer needed allow the make editable button tell the application set editable display panel ',negative
+'the following ugly conversion from text byte necessary because the byte class inconsistant when asked output hex does unsigned byte but when asked read back the same thing using the hex radix insists that the input must signed get around this upsize the conversion integer then truncate that byte and finally convert the byte byte yech ',positive
+'the following used both cell and popup operations ',negative
+'the following used both cell and popup operations ',negative
+'the following workaround for the problem mac where the apple laf delegates the swing popup factory but then tries set alpha the underlying cocoa window which will always null youre using jgoodies see this has effect linuxwindows ',positive
+'the format the result this must text html hopefully some type xml format will available well ',negative
+'the has static member that prevents garbage collection therefore need remove the model ',negative
+'the indexes are ascending order but want delete descending order see previous comment run through the list backwards ',negative
+'the insert worked make this input form away ',negative
+'the jcc driver code obfuscated not check the full class name but resort checking prefix and suffix instead version the full class name ',negative
+'the jtable used for displaying all resultset info ',negative
+'the jtextcomponent that being used for editing ',negative
+'the line comment per the rfc ',negative
+'the list rows may empty which case just return ',negative
+'the list rows may empty which case tell user they should select something first ',negative
+'the list specific column names commaseparated format with comma front the first entry well empty the map old values ',negative
+'the moment default value ',negative
+'the name the calling client program this optional you dont want give out this info please enter ',negative
+'the next top level ket the counterpart bra ',negative
+'the number decimal digits allowed the number ',negative
+'the numberformat object use for all localedependent formatting ',negative
+'the old view preserved eventually preserve folding points ',negative
+'the original object not null then contains clob object that need reuse since that the dbs reference the clob data area otherwise set the original clob null and the write method needs know set the field null ',negative
+'the parse did not find xml was malformed ',negative
+'the problem with this data longvarbinary and there are mckoi sql functions convert character string which executing the sql produced this method supposed return return select data from sysinfosusrview where name viewname ',negative
+'the properties from the jdbc driver failedncan not load driver properties tab ',negative
+'the registrations below are made support for new types introduced java ',negative
+'the release version doesnt change wont pulling down core artifacts just need make sure that all core files have been copied from their installed locations into the corresponding directory download which the classpath the updater this covers the case where the update being run for the first time after install and new version available but the user wants installremove plugins andor translations ',negative
+'the rows not match for ask user they really want delete ',negative
+'the same the local copy which was placed either the installer the last update ',negative
+'the scroll pane that holds the text area ',negative
+'the second row contains multiline description make that row high enough display ',negative
+'the second time that catalogs are asked for return two ',negative
+'the second time that schemas are asked for return two ',negative
+'the session timezone view with local timezone data types ',negative
+'the short file name doesnt exist then assume that the file name compatibility disabled ',negative
+'the sql results page puts text into the table cells rather than objects the appropriate type need convert befor proceeding ',negative
+'the sql statement validated against the standard ',negative
+'the suffix tmp then send the array ',negative
+'the table containing the users input ',negative
+'the table has only one column cannot dropped ',negative
+'the target dbms could mimer sql engine oracle this optional you dont want give out this info please enter ',negative
+'the total number decimal digits allowed the number ',negative
+'the treetablenode interface ',negative
+'the uri not valid file uri ',negative
+'the user chooses neither fixed value nor autoincrement then clear the fixed value field has value ',negative
+'the user name anonymous this can anything but has supplied anyway ',negative
+'the user name anonymous this can anything but has supplied anyway ',negative
+'the user selected editable table the session properties then the display will editable table otherwise the display readonly ',negative
+'the user wants select for right mouse clicks then change the selection before popup appears ',negative
+'the version the target dbms this optional you dont want give out this info please enter ',negative
+'there any way check for invalid input valid input includes least any printable character but could also include unprintable characters ',positive
+'there are lot goodies the that might interesting future unfortunately some conflicts with some squirrels shortcuts are settingscorelevel ',negative
+'there are many these tables that postgresql throws sqlexceptions for whenever tablelike operation attempted ',negative
+'there are more dependancies then just fks like views etc therefore cascadeconstraints used parameter for the tabledropsql ',negative
+'there good way using jdbc metadata tell the table materialized view need query the data dictionary find that out get all table names whose comment indicates that they are materialized view ',negative
+'there only one column the table ',negative
+'there reason that dont want use here the session nodes that this expander creating should not confused with the squirrel session these session nodes are oracle sessions that administrator has the privileges see must not use else these nodes get expanded with the database ',negative
+'there was data type object this data type unknown squirrel and thus cannot edited ',negative
+'there was error the conversion ',negative
+'there was problem inserting into the ',negative
+'there was problem with converting then just fall through and continue there was default given the otherwise use the converted object ',negative
+'there was problem with the read would nice report this the user but try get trouble some cases where the data continually reread after the dialog goes away because the cell being repainted cell not editable ',negative
+'these are all more less global loop variables keep from needing pass them all into various methods during parsing ',negative
+'these files contain images etc try filter out these props ',negative
+'these objects not depend catalogs schemas enough load them once ',negative
+'this acceptable ',negative
+'this binary field allow for multiple viewing options ',negative
+'this bit hard coded but use scale here some number displays crazy ',positive
+'this bit hard coded but use scale here some number displays crazy ',positive
+'this can happen impl returns null from the statementexecuting api method indicate that the sql shouldnt executed ',negative
+'this causes locks own other pids excluded from the result pglpid and ',negative
+'this datatype does not limit the data read during the initial load the table there need reread the complete data later ',negative
+'this didnt work final int pos getcaretposition final document doc final element docelem final element lineelem return ',negative
+'this fixes the issue where the tree getting constructed prior the oracle plugin expanders being registeredusers sessions instances nodes have children until the tree refreshed even though this hack doesnt seem negatively impact performance even when loading all schemas ',negative
+'this for brute force detection columns whose column size ',negative
+'this frame should really away when done ',negative
+'this gets called before initialize ',negative
+'this gets called before initialize ',negative
+'this hack currently when precision scale have way determine this valid for the actual data the problem comes when the source dbs precisionscale are greater reported greater than the precisionscale the destination this case maximimizes both for the destination causing definition that allows digits the left the decimal trouble without looking the actual data there way tell this valid some cases will others will not for now make the scale approx onehalf the precision accomodate the most digits the left and right the decimal and hopefully that covers the majority cases ',positive
+'this info merely placeholder the tree that can use get index name and parent name more easily probably should create indexcolumninfo that has this extra info ',positive
+'this isnt instanceof will thrown ',negative
+'this logically not sufficent try cope with the problem that there are the following contradictory rules the jdbc api doc this method should called only once per result this method should called only once per result there are more results when the following true getmoreresults getupdatecount getmoreresults returns false dont know have more results only know that isnt result set since called getupdatecount before getmoreresults because would like know the update count the first result might not allowed call getupdatecount again the intersystems cache driver for example always returns the same updatecount simple insert update delete statements not matter getmoreresults was called updatecount never gets and this will loop forever when discussed the issue with the intersystems people they just told not call getupdatecount twice that simple hope that this will cure problems with dbs that just dont care for multiple result sets ',positive
+'this may called either when the table editable when readonly when readonly there command saved but when editable there may command ',negative
+'this method makes the web service call you want you can create web service proxy from the wsdl file times out thats what you really want ',negative
+'this might because table alias used maybe with before ',negative
+'this not hibernate error write log entry ',negative
+'this panel called before any instances the class have been created need load the properties from the dtproperties ',negative
+'this refactoring depends the following dialect api methods getupdatesql ',positive
+'this seems necessary get background colours correct without labels added the content pane have dark background while those added jpanel the content pane have light background under the java look and feel similar effects occur for other look and feels ',negative
+'this seems work for both oracle and ',negative
+'this should default tokenizer which uses statement sep ',negative
+'this should just bring back one table hope ',positive
+'this should never happen check above for the duplicate ',negative
+'this should override the default tokenizer ',negative
+'this stage theres more text the scanned buffer but this buffer not the last the scan will continue another buffer the scanner tries minimize the amount characters that will prescanned the next buffer returning the token where possible ',negative
+'this the list names classes that support standard sql type codes and thus not need registered provide the getcontrolpanel method allow manipulation properties these classes should all named because they are part the standard delivery the product and thus should local this directory ',negative
+'this tool window ',negative
+'this was originaly done every time and the count instantiated objects was amazing ',negative
+'this weird dont set this the column header doesnt line with the column contents ',positive
+'this what the spec says create sequence increment value start with value maxvalue value nomaxvalue minvalue value nominvalue cylce nocylce ',negative
+'this will text qualified column need set make enter the seperate branch handle text qualified columns ',negative
+'this works because all the idatabaseobjectinfo objects come from the same source their references are equal ',negative
+'thread searching ',negative
+'threadsearching ',negative
+'through each child the parent and see was previously expanded was recursively call this method order expand the child ',negative
+'throw new doesnt support using sequences for column defaults ',negative
+'throws exception claiming that isnt valid type figure coldefgetsqltype ',negative
+'thru all loaded plugins asking for panels ',negative
+'time functions mapped ansi extract ',negative
+'time seconds ',negative
+'todo decide whether this should bound property not name name ',positive
+'todo delete ',positive
+'todo delete copyright johan compagner jcompagnerjcomnl this library free software you can redistribute andor modify under the terms the gnu lesser general public license published the free software foundation either version the license your option any later version this library distributed the hope that will useful but without any warranty without even the implied warranty merchantability fitness for particular purpose see the gnu lesser general public license for more details you should have received copy the gnu lesser general public license along with this library not write the free software foundation inc temple place suite boston usa ',positive
+'todo figure out how get then name the table that the trigger and tablesname ',positive
+'todo figure out why the selection the root node the object tree undone dont delay seems like some other thread racing set the selected node none when this happens the detail pane for the root node disappears when session first opened when objecttree frame created this really crappy and unreliable way fix this problem but hides the problem for now better understanding the architecture session creation required before proper solution can attempted rmm ',positive
+'todo hookup with interbase spec and adjust these necessary ',positive
+'todo maybe instead throwing exception could ask the user they would like adjust their preference for them ',positive
+'todo maybe prompt the user ask append the records ignoring errors for constraint violations ',positive
+'todo maybe should have checkbox allow the user toggle default value onoff some dbs like treat empty string different default value than null ',positive
+'todo maybe someday could inform the user that the imported key cant created because the list tables theyve selected doesnt include the table that this foreign key depends upon for now just log warning and skip ',positive
+'todo primary ',positive
+'todo refresh ',positive
+'todo should adding quotes user wants identifiers quoted ',positive
+'todo should also make sure that each the columns made not null ',positive
+'todo should the constraint name simply the column name something more like constraint name ',positive
+'todo spatial and fulltext indexes require myisam engine for the table there way tell what engine being used for table may not necessary since the following doenst hurt already myisam engine alter table mytable engine myisam still this not the kind thing would want automatically since myisam engine nontransactional will probably need tell the user somehow that they need this otherwise the create index statement will fail maybe comment the script and they happen read they could uncomment the conversion the engine maybe custom dialog ',positive
+'todo springinject when this class spring bean ',positive
+'todo temporary until sort out better way guidos fix ',positive
+'todo temporary until sort out better way guidos fix iquerytokenizer ',positive
+'todo these should handled with iterator ',positive
+'todo this should handled with iterator ',positive
+'todo what about these viewportfont colorchooserfont internalframefont optionpanefont panelfont scrollpanefont desktopiconfont ',positive
+'todo what really want here get the sql script and replace create procedure with alter procedure then put that the sql pane and not execute ',positive
+'todo when jdk the earliest jdk supported squirrel then remove the hardcoding the boolean data type ',positive
+'todo when the earliest version supported add the following line this should help handle some problems with navigation using tab return move through cells ',positive
+'tokenizer has been set any installed plugin ahead and give the default tokenizer important not cache this object that session property changes the current session are reflected this default tokenizer ',negative
+'toolbar background color for all components ',negative
+'tooltips ',negative
+'tooltips and questions ',negative
+'track the time aggregate for the script ',negative
+'translations ',negative
+'tricky alias and chaining completion examples auftr from auftr where auftr from kvpositionenkv auftr where positionen fields aggregate positionen from auftr where auftrpositionen positionen fields aggregate positionen from where positionen ',negative
+'tried for the max length varchar and ingres gives exception cannot assign value type long varchar varchar field limit this field for now the ingres product documentation indicated that was acceptable ive tested and seems work fine ',negative
+'tried the following for values under but get encountered unexpected exception line you cannot assign value type long byte column type byte varying explicitly convert the value the required type byte varyingl ',negative
+'trigger source ',negative
+'trigger source select text from dbosysobjects inner join syscomments syscommentsid sysobjectsid where loginame and name and type ',negative
+'trigger tabs ',negative
+'truncate string ',negative
+'try convert the text the popup into valid instance type data object being held the table cell ',negative
+'try create file directory that does not exist ',negative
+'try use the default value ',negative
+'trying set time large exact number ',negative
+'type controls ',negative
+'typename ',negative
+'typeschar typesvarchar typeslongvarchar typesbinary typesvarbinary typeslongvarbinary typesnull typesjavaobject typesdistinct typesarray typesblob typesclob typesref typesdatalink ',negative
+'under jdk empty jcombobox has almost zero width ',negative
+'under jdk the first item jcombobox longer automatically selected ',negative
+'underlaying data cannot changed ',negative
+'unfortunately cannot simply call since serial type which the same javasqltypesinteger would get back integer column not serial column piece together ourselves alter table modify myid integer ',negative
+'unfortunately conversion uppercase does not work properly for the georgian alphabet which has strange rules about case conversion need make one last check before exiting ',negative
+'unknown types are treated strings internally squirrel ',negative
+'update destinationtable set destcolumn select fdesct from fromtable where fmyid smyid ',negative
+'update done underlying data ',negative
+'update table set columnname columnname ',negative
+'update the bounds the popup ',negative
+'use cyan background indicate that the cell editable the popup ',negative
+'use default sequential layout ',negative
+'use dialect sql from failed egetmessage ',negative
+'use factory get the appropriate editor ',negative
+'use the default settings for the conversion ',negative
+'use the session key you got from the opensession call here ',negative
+'use the standard sql type code get the right handler for this data type ',negative
+'used editing operations set textfield value without changing the original text saved the class ',negative
+'used the value when were not the middle event dispatch ',negative
+'user asked see binary data different format default hex ',negative
+'user checks ',negative
+'user did anything other than default then save their options ',negative
+'user enters something when field null ',negative
+'user has cancelled the query execution ',negative
+'user has entered some nondefault info save ',negative
+'user has not entered anything has reset defaults make sure there entry for this column the saved info ',negative
+'user hibernate ',negative
+'user must have supplied file name ',negative
+'user said insert collect all the data from the jtable and send the datasetviewer for insertion into and onscreen tables ',negative
+'user said not read any the data from the blob ',negative
+'user wants create temp file ',negative
+'user wants field false ',negative
+'user wants field true ',negative
+'user wants see ascii chars characters see this one that should displayed that way ',negative
+'user with overwriting file not need anything special overwrite opposed appending since the outputstring starts the beginning the file default ',negative
+'users ',negative
+'utility methods ',negative
+'value simple string representation the data but not the same one used the text and incell operations the incell version may replace newline chars with while this version does not other respects the same the incell version because both use the renderer object the rendering ',negative
+'value simple string representation the data the same one used text and incell operations ',negative
+'value simple string representation the data the same one used the text and incell operations ',negative
+'varcharl ',negative
+'variables ',negative
+'variables non visible logger for this class ',negative
+'variables used printing ',negative
+'verify that changing the clone didnt affect the original ',negative
+'version this optional you dont want give out this info please enter ',negative
+'view ',negative
+'view list ',negative
+'view tab ',negative
+'view type dbo doesnt exist yet ',negative
+'viewdefsql the sql that can used query the data dictionary for the body view this should exclude the create view viewname prefix and just return the query ',negative
+'visible gui ',negative
+'wait for command complete ',negative
+'want allow editing readonly tables ondemand but would confusing include the make editable option when are already edit mode only allow that option when the background model updateable and are not already editing ',negative
+'want delete rows from the end the table towards the beginning the table delete from the front the back that throws off the indexes the rows after each delete and would have compensate for that example want delete rows and and that order then after deleteing row the row that used row now actually row would have subtract from the index get the row delete the other hand delete row first then the indexes all rows prior that one have not been affected can then delete row without any complications ',negative
+'warning ',negative
+'warning ',negative
+'warning this depends entries buttongroup being the same order the values for whereclauseusage ',negative
+'weve already seen the parameter dont create another instance this will force the user enter the same value twice add the previous instance itemsinsql though that the parameters value gets propagated the right spots the sql statement ',negative
+'what with this error error message could not read the complete data error was exgetmessage ',negative
+'when changing the backgroud color helps set the inner components border zero otherwise the border can obscure the text and make hard see this especially seen when using the kunstoff ',negative
+'when field not null delete means set null ',negative
+'when started dispatching the current event milliseconds ',negative
+'whether nulls are allowed not ',negative
+'whether number signed unsigned ',negative
+'while ',negative
+'white space ',negative
+'why null ',negative
+'will called asynchronously the event dispatch thread ',negative
+'without this the completion panels size will weird ',negative
+'work around some utc and daylight saving offsets ',positive
+'workaround for this driver which must have dbo for schema the jconnect family drivers appears not affected and can accept null schema which necessary find tables other schemas within the same catalog similarly jtds doesnt require this yet doesnt return nondbo schema tables unfortunately ',positive
+'working directory specified ',negative
+'write cell importexport options persistant storage ',negative
+'write sql queries persistant storage ',negative
+'xml ',negative
+'yes can add controls ',negative
+'you add this method one the standard datatypes the directory you must also add the name that datatype class the list method getcontrolpanels variable named the class being registered with the factory using registerdatatype then you should not include the class name the list will found automatically but the datatype part the case statement the factory method getdatatypeobject then does need explicitly listed the getcontrolpanels method also ',negative
+'you add this method one the standard datatypes the directory you must also add the name that datatype class the list method getcontrolpanels variable named the class being registered with the factory using registerdatatype then you should not include the class name the list will found automatically but the datatype part the case statement the factory method getdatatypeobject then does need explicitly listed the getcontrolpanels method also ',negative
